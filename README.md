@@ -8,4 +8,4 @@ We are given an Image and we have to remove noise from it.Also after noise remov
 ![noisy image](https://github.com/theannoying/Image-Noise-removal-and-compression/blob/master/Noisy%20Image.PNG)
 
 ## Denoised Image
-![]()
+![Denoised Image](https://github.com/theannoying/Image-Noise-removal-and-compression/blob/master/Denoised%20Image.PNG)
